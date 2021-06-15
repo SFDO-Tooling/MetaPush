@@ -1,0 +1,6 @@
+[run]
+omit =
+    MetaPush/*/migrations/*
+
+[report]
+show_missing = True
